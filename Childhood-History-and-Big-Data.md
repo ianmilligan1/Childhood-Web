@@ -1,4 +1,4 @@
-# Unlocking Childrens and Youth History through Computational Big Data
+# Unlocking Childhood and Youth History through Computational Big Data
 
 Ian Milligan (University of Waterloo)
 
@@ -22,7 +22,7 @@ Individually, the source is meaningless. On a scale of hundreds of thousands or 
 
 Accessing web archives is currently quite difficult. Outside of smaller collections, such as those gathered by the Internet Archive's [Archive-It](https://archive-it.org/) service, most users are limited to using the Wayback Machine. The largest such one is [provided by the Internet Archive](http://archive.org/web/), 
 
-## What was the Enchanted Forest?
+## What was the GeoCities Enchanted Forest?
 
 ## Methods: Network Analysis
 
