@@ -2,6 +2,8 @@
 
 Ian Milligan (University of Waterloo)
 
+*Disclaimer: I'm writing in public again.. which means that this is extremely rough, unfinished, etc.*
+
 “Welcome to the Enchanted Forest,” the page read, “home of the littlest GeoCitizens and some of the best homepages. This is a neighbourhood for pages by kids, for kids – from animals to zephyrs, the Forest has everything that a young mind could need.”[1] An experiment in online publishing was playing out, amidst a broader context of fears around undifferentiated accessibility to adult content and online exploitation: GeoCities’ Enchanted Forest. This geographically-represented online community had everything a child, parent, or educator could need: the ability to reach large audiences, but patrolled by volunteer community leaders, resources provided at community centers, and spirit-building awards and contests. The virtual suburbs spread out across the vistas, offering their own community leaders, centers, and blocks full of websites. For thousands of children and their families, Enchanted Forest was a means to reach audiences – and historians – that previous generations of children could only imagine.
 
 Studying childhood history is difficult because children do not, by and large, leave sources behind. Information about their lives is filtered through lenses: the lenses of adulthood, when we study representations of kids written by adults, or reminscing upon their memories; or the state; or idealized visions in art, school curricula, and the like. We have newspaper reporters describing children playing, sociological reports if we are lucky, and cultural histories of rhymes and paintings. While exceptions exist, such as diaries, this has generally been a limitation of childhood history (handled ably and sensitively by youth and childhood historians).
@@ -43,7 +45,9 @@ They subsequently discovered the line break element (`<br>`) – “Mom, is that
 
 ## Studying Children without their Consent: Ethical Ironies within GeoCities
 
-When studying web archives, one must be mindful of ethics at all time. I have explored this more in depth elsewhere, but in short, these are archives 
+*this needs a lot more work - need to think of the balancing act between this and earlier work on GeoCities & Ethics..*
+
+When studying web archives, one must be mindful of ethics at all time. I have explored this more in depth elsewhere, but in short, these are archives  **more on consent, ethics, collections, robots.txt and ignorance of it, etc.**
 
 There was a darker side to GeoCities, however. Some children joined the GeoKidz club, which was prominently marketed throughout the Enchanted Forest splash page and other administrative spaces. It was actually at EnhcantedForest/3696, run by a third party, but prominent language on the hompage implored users to go visit.
 
@@ -54,6 +58,8 @@ To enter competitions or other clubs, prospective members had to fill out survey
 As she noted, this was “complete exploitation of children … it’s now not just pornography, it’s marketing as well.”[7]
 
 ## Finding Popular Sites through Network Analysis
+
+**brief intro to network analysis, drawing on some Macroscope/Weingart**
 
 The Enchanted Forest was an interconnected community, stitched together by a whopping 748,563 hyperlinks between 67,453 HTML pages spread across 9,460 individual user pages. Link structures can also help find the most popular sites within the community, as measured by hyperlinks. A site that was linked to by ten other websites, for example, was one that had made some connections; by hundreds, and we found community leaders or other network hubs. The scope of this collection can be seen below in Fig X:
 
@@ -84,9 +90,11 @@ Community leaders were ubiquitous throughout GeoCities, providing the sense of c
 
 ## Methods: Text Analysis
 
-## Methods: Data Mining
+**LDA experiment here**
 
 ## Wrapping it all Together: Warcbase and Spark Notebooks
+
+**Model for analysis both on this and other web archives w/o the command line, but just a web browser!**
 
 ## Conclusions
 
