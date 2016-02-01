@@ -1,4 +1,4 @@
-# Unlocking Childhood and Youth History through Computational Big Data
+# Unlocking Childhood and Youth History through Web Archived Big Data
 
 Ian Milligan (University of Waterloo)
 
