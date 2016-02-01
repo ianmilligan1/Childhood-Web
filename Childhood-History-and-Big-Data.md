@@ -109,13 +109,13 @@ Sincere thanks for this project to the support of the Social Sciences and Humani
 
 ## References
 
-[1] “Welcome to the Enchanted Forest,” `EnchantedForest/1004/welcome.html`. 
-[2] Sreenath Sreenivasan, “New Neighborhood, No Money Down,” *New York Times*, March 17, 1997, sec. Business, <http://www.nytimes.com/1997/03/17/business/new-neighborhood-no-money-down.html>.
-[3] Jack Schofield, “How the Web Was Won,” *The Guardian*, 19 March 1998, 2. Accessed via Lexis|Nexis.
-[4] Michelle Slatalla, “USER’S GUIDE; Building Web Pages Is Child’s Play,” *New York Times*, May 7, 1998, sec. Technology, <http://www.nytimes.com/1998/05/07/technology/user-s-guide-building-web-pages-is-child-s-play.html>.
-[5] Ibid.
-[6] Chris Griffith, “Kids Used as Spies on Net,” *Sunday Mail* (Queensland, Australia), 6 September 1998, 27. Accessed via Lexis|Nexis.
-[7] Ibid.
-[8] Lisa Napoli, “Despite a Passion for the Net, Many On-Line Volunteers Want Pay,” *New York Times*, April 19, 1999, sec. Business, http://www.nytimes.com/1999/04/19/business/despite-a-passion-for-the-net-many-on-line-volunteers-want-pay.html.
-[9] https://web.archive.org/web/20010404081732/http://www.geocities.com/EnchantedForest/Dell/4543
-[10] https://web.archive.org/web/20091023064303/http://geocities.com/EnchantedForest/Glade/1003/ 
+[1] “Welcome to the Enchanted Forest,” `EnchantedForest/1004/welcome.html`.  
+[2] Sreenath Sreenivasan, “New Neighborhood, No Money Down,” *New York Times*, March 17, 1997, sec. Business, <http://www.nytimes.com/1997/03/17/business/new-neighborhood-no-money-down.html>.  
+[3] Jack Schofield, “How the Web Was Won,” *The Guardian*, 19 March 1998, 2. Accessed via Lexis|Nexis.  
+[4] Michelle Slatalla, “USER’S GUIDE; Building Web Pages Is Child’s Play,” *New York Times*, May 7, 1998, sec. Technology, <http://www.nytimes.com/1998/05/07/technology/user-s-guide-building-web-pages-is-child-s-play.html>.  
+[5] Ibid.  
+[6] Chris Griffith, “Kids Used as Spies on Net,” *Sunday Mail* (Queensland, Australia), 6 September 1998, 27. Accessed via Lexis|Nexis.  
+[7] Ibid.  
+[8] Lisa Napoli, “Despite a Passion for the Net, Many On-Line Volunteers Want Pay,” *New York Times*, April 19, 1999, sec. Business, http://www.nytimes.com/1999/04/19/business/despite-a-passion-for-the-net-many-on-line-volunteers-want-pay.html.  
+[9] https://web.archive.org/web/20010404081732/http://www.geocities.com/EnchantedForest/Dell/4543  
+[10] https://web.archive.org/web/20091023064303/http://geocities.com/EnchantedForest/Glade/1003/   
