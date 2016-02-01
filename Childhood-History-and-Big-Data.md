@@ -30,7 +30,7 @@ We need to instead turn to specific collections. One of these is GeoCities, the 
 
 From its inception, GeoCities really was a *Geo*Cities. The geographical metaphor lay at the hart of the website. GeoCities was divided into a series of "neighbourhoods," divided into user interests. Heartland, the largest neighbourhood, was intended for those with interests in "families, pets, hometown values"; Wellesley, for feminist and women's issues; WestHollywood for LGBT concerns. They were not optional (apart from a miniscule amount of people who paid for "vanity" URLs, such as http://geocities.com/myname): users intending to build a GeoCities page had to pursue a long list of various neighbourhoods, find one that fit their uses, see some other example topics, before phyiscally moving in by selecting an address in the neighbourhood between 1000 and 9999. As popular neighbourhoods, "suburbs" began to appear. 
 
-![https://raw.githubusercontent.com/ianmilligan1/Childhood-Web/master/Images/Fig1-Neighbourhoods.png](Neighbourhoods, 1996)
+![Neighbourhoods, 1996](https://raw.githubusercontent.com/ianmilligan1/Childhood-Web/master/Images/Fig1-Neighbourhoods.png)
 Fig 1: List of 29 Neighbourhoods, 20 December 1996, archived at <http://web.archive.org/web/19961220165942/http://www.geocities.com/homestead/homedir.html>. 
 
 One of these neighbourhoods was the Enchanted Forest. As Jack Schofield noted in the *Guardian*, it was a different sort of neighbourhood. Rather than gathering users by their interests (as in WestHollywood or Wellesley), "it divided its users based on their age."[3]
@@ -57,14 +57,14 @@ As she noted, this was “complete exploitation of children … it’s now not j
 
 The Enchanted Forest was an interconnected community, stitched together by a whopping 748,563 hyperlinks between 67,453 HTML pages spread across 9,460 individual user pages. Link structures can also help find the most popular sites within the community, as measured by hyperlinks. A site that was linked to by ten other websites, for example, was one that had made some connections; by hundreds, and we found community leaders or other network hubs. The scope of this collection can be seen below in Fig X:
 
-![https://github.com/ianmilligan1/Childhood-Web/raw/master/Images/Fig2-Link-Structures.png](Link Structure)
+![Link Structure](https://github.com/ianmilligan1/Childhood-Web/raw/master/Images/Fig2-Link-Structures.png)
 Fig X: The 748,563 edges of the Enchanted Forest, connecting the 67,453 HTML pages.
 
 Note the darker coloured clusters: these are websites that have a high-degree of inbound links. In this visualization, a site that many other sites *within* the Enchanted Forest linked to, will have a darker and bolder colour. They are other coloured based upon their modularity class, the product of a community-detection algorithm to find sites that might be similar based solely on their linking practices. 
 
 While this sort of visualization is often derided as being in the spaghetti-and-meatballs vein, we can learn quite a bit from it as we move between the level of distant and close reading. Remember the major problem: we have too many websites to read them all. Accordingly, we can then either generate lists of the websites that had the most inbound links, or we can zoom in to explore these clusters manually. Again, we’re not looking at 67,453 pages: but looking at the ones that most pique our interest. The most dominant ones (the two large yellow dots pictured above) are actually links to the “welcome to GeoCities” image. Yet the clusters of websites are interesting, revealing some of the most popular sites within the Enchanted Forest as measured by links. Consider when we zoom in below as in Fig X:
 
-![https://github.com/ianmilligan1/Childhood-Web/raw/master/Images/Fig3-Zooming-in-Links.png](Link Structure zoomed in)
+![Link Structure zoomed in](https://github.com/ianmilligan1/Childhood-Web/raw/master/Images/Fig3-Zooming-in-Links.png)
 Fig X: Zooming into a Cluster of Websites
 
 The circle is a cluster of webring-related sites. And other sites, such as Prairie/2524, Prairie/2524, and Dell/4543 – for example  – are also worth looking into, as they had a substantial number of inbound links.
@@ -94,7 +94,7 @@ The Enchanted Forest died two deaths.
 
 **FIRST DEATH: YAHOO purchase and decline in 2000s**
 
-![https://raw.githubusercontent.com/ianmilligan1/Childhood-Web/master/Images/Fig4-LastModified.png](last modified)
+![last modified](https://raw.githubusercontent.com/ianmilligan1/Childhood-Web/master/Images/Fig4-LastModified.png)
 Fig X: Slow dwindling of activity
 
 The second death came with Yahoo!’s decision in 2009 to shutter GeoCities for good. By that point, user numbers were down, media attention had passed, and GeoCities had become synonymous with “bad taste” among many Web denizens. Most sites explored had not been updated since the late 1990s or early 2000s, and were already digital ruins of stale, dated material.
