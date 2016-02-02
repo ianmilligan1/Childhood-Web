@@ -1,8 +1,8 @@
 # Unlocking Childhood and Youth History through Web Archived Big Data
 
-Ian Milligan (University of Waterloo)
+*Ian Milligan (University of Waterloo)*
 
-*Disclaimer: I'm writing in public again.. which means that this is extremely rough, unfinished, etc.*
+**Disclaimer: I'm writing in public again.. which means that this is extremely rough, unfinished, etc.**
 
 “Welcome to the Enchanted Forest,” the page read, “home of the littlest GeoCitizens and some of the best homepages. This is a neighbourhood for pages by kids, for kids – from animals to zephyrs, the Forest has everything that a young mind could need.”[1] An experiment in online publishing was playing out, amidst a broader context of fears around undifferentiated accessibility to adult content and online exploitation: GeoCities’ Enchanted Forest. This geographically-represented online community had everything a child, parent, or educator could need: the ability to reach large audiences, but patrolled by volunteer community leaders, resources provided at community centers, and spirit-building awards and contests. The virtual suburbs spread out across the vistas, offering their own community leaders, centers, and blocks full of websites. For thousands of children and their families, Enchanted Forest was a means to reach audiences – and historians – that previous generations of children could only imagine.
 
@@ -41,7 +41,7 @@ Fig 1: List of 29 Neighbourhoods, 20 December 1996, archived at <http://web.arch
 
 One of these neighbourhoods was the Enchanted Forest. As Jack Schofield noted in the *Guardian*, it was a different sort of neighbourhood. Rather than gathering users by their interests (as in WestHollywood or Wellesley), "it divided its users based on their age."[3]
 
-What was it like to move in here? The dynamic site building experience for GeoCities has been lost, unfortunately, but evidence has been preserved from elsewhere. In the New York Times, journalist Michelle Slatalla wrote about how she created an Enchanted Forest page with her two daughters, Zoe and Ella, aged 9 and 7 respectively. It was a smooth, accessible experience:
+What was it like to move in here? The dynamic site building experience for GeoCities has been lost, unfortunately, but evidence has been preserved from elsewhere. In the *New York Times*, journalist Michelle Slatalla wrote about how she created an Enchanted Forest page with her two daughters, Zoe and Ella, aged 9 and 7 respectively. It was a smooth, accessible experience:
 
 >We found an empty ''cottage'' to claim. From Geocities' main page, we clicked on Help and got easy-to-follow instructions on how to call up a template to edit our home page. Offered a choice of editing tools that included both an HTML editor and a simplified editor that hid all the scaffolding, my daughters began to experiment. Instead of typing commands in HTML, or hypertext markup language, the lingua franca of the Web, they could use pull-down menus to choose text color and graphics elements. What they liked most, though, was simply to type text. ''Here is a list of things that Zoe likes,'' Zoe began.[4]
 
@@ -63,7 +63,16 @@ As she noted, this was “complete exploitation of children … it’s now not j
 
 ## Finding Popular Sites through Network Analysis
 
-**brief intro to network analysis, drawing on some Macroscope/Weingart**
+Network analysis is extremely useful when working with web archives. By extracting the site link structure, we can learn things such as:
+
+- what websites were the most linked to, and what could we learn from these sites;  
+- what websites had the most outbound links to other sites;  
+- what paths could be taken through the link network to find other pages;  
+- and what communities could we find within the link structure?  
+
+While links continue to be an important currency on the Web: we link to content that we find interesting, provocative, thoughtful, infuriating, or beyond, in the 1990s and before the advent of modern search engine technology, links played an even more critical role in facilitating content discovery. In the late 1990s, inclusion in search engines was not automatic: many required that you fill out a form to ensure that you were properly discovered. To find content, then, many users relied upon links: links from guestbooks, links from awards that users gave to each other, or even links from webrings that they might have been members of.[cite earlier published work on this]
+
+Using the [Warcbase platform](http://warcbase.org/), an open-source platform for managing web archives built on Hadoop and HBase that I am part of the development team for, we extracted all of the links from the EnchantedForest. It does this by looking for all of the links within blocks such as `<a href="http://www.geocities.com/enchantedforest/1009/index.html">` and recording them accordingly. **more code and info here**
 
 The Enchanted Forest was an interconnected community, stitched together by a whopping 748,563 hyperlinks between 67,453 HTML pages spread across 9,460 individual user pages. Link structures can also help find the most popular sites within the community, as measured by hyperlinks. A site that was linked to by ten other websites, for example, was one that had made some connections; by hundreds, and we found community leaders or other network hubs. The scope of this collection can be seen below in Fig X:
 
@@ -88,7 +97,6 @@ The websites written by the children themselves are interesting. Brandon’s pag
 Elsewhere on his page, he had an aquarium page – “my mom won't let me and my sister have an aquarium … so this is what we came up with.” – which was a watery-background page with dozens of animated fish GIFs. He also had other pages, such as one focusing on Batman and another on Spiderman, mostly consisting of pictures and frames from the movies. An extensive Star Wars site makes for interesting viewing as well, connected to many other sites through two webrings that Brandon maintained. More crucially, Brandon also received thirty-six awards from other users, stretching back to his first award on 31 July 1997: most of these were from other kids on the Web, although some were from adults or others (“Clara’s Special Children’s Award” which offered “a prayer for you [and] blessings all year through”). Brandon was part of this eco-system too, offering his own “Batman” award that other people could have: they would need to fill out a form to apply for the award, consisting of their name, e-mail address, homepage, what it’s about, and probably most important, whether or not they signed his guestbook. Some twenty-five people received his award, other kids: “fellow treasure hunters,” Power Ranges or Will Smith fan sites, Peter Pan, and so forth. This was a connected individual.
 
 Other well-connected sites fell into a different category, that of websites written – purportedly by children – but really by their parents.  **MORE HERE**
-
 
 Community leaders were ubiquitous throughout GeoCities, providing the sense of community that glued the website together. Purportedly growing out of user demand, these leaders were given the mandate to “take an active role in shaping their neighbourhoods,” by responding to questions by e-mail, running award programs to nominate and select best sites, police content guidelines, help new users learn the basics of HTML and GeoCities pages, liaise with GeoCities staff, and monitor communication mediums like chat rooms and discussion boards.[8]
 
