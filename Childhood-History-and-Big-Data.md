@@ -30,6 +30,10 @@ We need to instead turn to specific collections. One of these is GeoCities, the 
 
 ## What was the GeoCities Enchanted Forest?
 
+In November 1994, David Bohnett founded Beverley Hills Internet, a serivce that would allow users to create their own webpages for free: no credit card payments, no cost, nor even a need to know the technological soup that ran the web. Before GeoCities, and its close competitors Tripod.com (1994) and Angelfire.com (1996), building pages largely involved an involved process of handcoding pages using Hyper Text Markup Language (HTML) code and uploading them to a server using the File Transfer Protocol (FTP). GeoCities instead allowed people to build websites with only a few clicks: following "Wizards" to fill out forms to populate a site, and within a few years, fully-featured graphical user interface clients.
+
+That GeoCities emphasized geographical metaphors in its name, marketing, and site layout was in keeping with then contemporary understandings of the Web as a bounded space. Think the "frontier" of *Wired* magazine, the technological utopianism of former counterculturalists now finding themselves within the new Cyberculture, or 'net libertarians such as Newt Gingrich.[Turner] User numbers began to skyrocket. Five weeks after GeoCities opened, it had received over 600,000 hits and by summer 1995, it was hosting 1,400 websites (“Beverly Hills Internet,” 1995). By mid-1998, the site was one of the top 10 draws on the Web and was growing by 18,000 new users a day (Motavalli, 2002). If by our standards the sites were clunky, text heavy, and visually unappealing (think garish backgrounds and clipart), it represented a powerful publishing platform. People who never before could have accessed an audience could now in theory reach millions of web users.
+
 From its inception, GeoCities really was a *Geo*Cities. The geographical metaphor lay at the hart of the website. GeoCities was divided into a series of "neighbourhoods," divided into user interests. Heartland, the largest neighbourhood, was intended for those with interests in "families, pets, hometown values"; Wellesley, for feminist and women's issues; WestHollywood for LGBT concerns. They were not optional (apart from a miniscule amount of people who paid for "vanity" URLs, such as http://geocities.com/myname): users intending to build a GeoCities page had to pursue a long list of various neighbourhoods, find one that fit their uses, see some other example topics, before phyiscally moving in by selecting an address in the neighbourhood between 1000 and 9999. As popular neighbourhoods, "suburbs" began to appear. 
 
 ![Neighbourhoods, 1996](https://raw.githubusercontent.com/ianmilligan1/Childhood-Web/master/Images/Fig1-Neighbourhoods.png)
@@ -98,7 +102,7 @@ Community leaders were ubiquitous throughout GeoCities, providing the sense of c
 
 ## Conclusions
 
-The Enchanted Forest died two deaths. 
+The Enchanted Forest died two deaths, both involving Yahoo! GeoCities had its Initial Public Offering (IPO) in August 1998, with share values rising to around $40 from its $17 initial offer. Yahoo! subsequently purchased GeoCities in January 1999 at $117 a share for $4.6 billion. This spoke to its overwhelming success at the time, when GeoCities had risen to the third most-visited site on the Web with around 55 million page views a day (Motavalli, 194). Yahoo! however quickly overhauled the site: the neighbourhood structure was scrapped, and the site began to decline in attention and user numbers.
 
 **FIRST DEATH: YAHOO purchase and decline in 2000s**
 
