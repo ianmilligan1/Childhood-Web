@@ -53,13 +53,26 @@ They subsequently discovered the line break element (`<br>`) – “Mom, is that
 
 When studying web archives, one must be mindful of ethics at all time. I have explored this more in depth elsewhere, but in short, these are archives  **more on consent, ethics, collections, robots.txt and ignorance of it, etc.**
 
-There was a darker side to GeoCities, however. Some children joined the GeoKidz club, which was prominently marketed throughout the Enchanted Forest splash page and other administrative spaces. It was actually at EnhcantedForest/3696, run by a third party, but prominent language on the hompage implored users to go visit.
+There was a darker side to GeoCities, however. Some children joined the GeoKidz club, which was prominently marketed throughout the Enchanted Forest splash page and other administrative spaces. It was actually at EnchantedForest/3696, run by a third party (the user Melange – I have not been able to find out anything else about her), but prominent language on the hompage implored users to go visit.
 
-To enter competitions or other clubs, prospective members had to fill out surveys: these were fun adventures, replete with “bouncing ballons” or toys. The questions, however, were a bit less fun according to Moira Scollay, the Australian federal privacy commissioner:
+GeoKidz was a popular website – our subsequent network analysis of the community found that it was the tenth most popular website in terms of the PageRank algorithm – and was set up to host poems, book reviews, a chat room, some Java games. Extensive HTML lessons laid out the basics of HTML quite well, serving as a useful landing page for people new to the neigbourhood. It even had an official dog, Charlie, an image for kids to play with and "edit" to give gifts (putting him in a house, for example, or with a frisbee). Without exagerration, it was a very useful community hub.
+
+![Link Structure zoomed in](https://github.com/ianmilligan1/Childhood-Web/raw/master/Images/Fig5-GeoKidz.png)
+Figure 5 (will renumber): The GeoKidz home page
+
+There was a catch, however. To enter competitions or other clubs, prospective members had to fill out surveys: these were fun adventures, replete with “bouncing ballons” or toys. The questions were a bit less fun according to Moira Scollay, the Australian federal privacy commissioner:
 
 >Part of it might ask them does daddy play golf, how many clubs does he have, do you have a cat or dog, how many rooms in your house, do you have a car, does mummy and daddy drive, and how many cars do they have.[6]
 
 As she noted, this was “complete exploitation of children … it’s now not just pornography, it’s marketing as well.”[7]
+
+MORE HERE ON THE FTC RULING
+
+The FTC ruling put an end to sites like GeoKidz. Melange was candid at the retrictions placed on her:
+
+>To those of you who have written to me, I'm sorry I can't answer. In order to follow the new rules, I'd need your parents' permission to write to you if you're under 13. Since I have no way to get your parents' permission or verify that you're over 13, I can't answer personal mail. ... As a front runner for the safety of children (and everyone) on the Internet I'm one of the first to want to protect children's privacy. But unfortunately, the new regulations imposed by the FTC have made it very difficult for me to keep the club going in the form of a club. (<http://web.archive.org/web/20040321215546/http://www.geocities.com/EnchantedForest/3696/announ.html>)
+
+GeoKidz thus became Kids' Place, and lost the interactive functions that made it so interesting.
 
 ## Finding Popular Sites through Network Analysis
 
