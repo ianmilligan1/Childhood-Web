@@ -66,7 +66,9 @@ There was a catch, however. To enter competitions or other clubs, prospective me
 
 As she noted, this was “complete exploitation of children … it’s now not just pornography, it’s marketing as well.”[7]
 
-MORE HERE ON THE FTC RULING
+This caught the attention of the American Federal Trade Commission (FTC), revealed to the media during GeoCities IPO in June 1998 as a valuation risk factor. MORE HERE
+
+
 
 The FTC ruling put an end to sites like GeoKidz. Melange was candid at the retrictions placed on her:
 
